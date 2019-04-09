@@ -1,0 +1,59 @@
+meta
+canonical url
+namespace
+class
+
+setTimeOut
+setInterval
+
+locolstorage
+sessionSt
+
+selfExecution function
+
+anonymous function
+
+
+xmlhttp request statuses
+persistent cookies
+
+http codes
+
+
+
+webpack
+
+weblrc
+
+
+pacakge.json
+
+  peer dependencies
+
+
+Reactjs:
+
+react.lazy and React.memo
+
+Dynamic Loading
+ways of sharing data between parent anad child
+https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17
+
+modular css
+styled componeents
+
+loadable components
+
+Explain Router methods
+pure components
+controlled components and uncontrolled components
+Context Api
+
+
+
+
+
+
+
+
+
